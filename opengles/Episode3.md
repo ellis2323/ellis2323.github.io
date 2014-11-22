@@ -1,5 +1,10 @@
-Episode 3: OpenGL en C/C++ pour Android
-=======================================
+---
+layout: page
+title: "Episode 3: OpenGL en C/C++ pour Android"
+description: ""
+tags : [Android, C++, OpenGL]
+---
+
 
 Installation du NDK
 -------------------

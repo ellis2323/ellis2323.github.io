@@ -1,5 +1,9 @@
-Episode 2: les textures
-=======================
+---
+layout: page
+title: "Episode 2: les textures"
+description: ""
+tags : [Textures, OpenGL]
+---
 
 Introduction
 ============

@@ -1,5 +1,8 @@
-Episode 1: Afficher 30000 points
-================================
+---
+layout: page
+title: "Episode 1: Afficher 30000 points"
+description: ""
+---
 
 L'objectif de ce chapitre est la réalisation d'un premier exemple mais visuellement intéressant.
 
