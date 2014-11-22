@@ -1,2 +1,4 @@
 # ignore generated files
-_site/
+*.DS_Store
+
+_site
