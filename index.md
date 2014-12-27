@@ -1,14 +1,22 @@
 ---
 layout: page
 title: Ellis Blog
-tagline: OpenGL ES Tutorial
-tags : [intro, OpenGL]
+tagline: Hackintosh, OpenGL ES
+tags : [Hackintosh, OpenGL]
 ---
+
+## Save your mbp 2011
+
+Special Gift for all 2011 mbp owner.
+
+<a href="{{ BASE_PATH }}/mbp2011/Mbp2011.html">Yosemite on 2011 MBP without GPU external</a>
+
+Please donate 
+
+## OpenGL ES Tutoriel
 
 Après de long mois d'absence, je remets à jour mon tutoriel français consacré à l'OpenGL.
 Ce contenu était auparavant hébergé sur mon propre serveur (naruto.scigems.org).
-
-## Table des matières
 
 <ul class="posts">
     <li><a href="{{ BASE_PATH }}/opengles/Introduction.html">Introduction à OpenGL ES</a></li>
