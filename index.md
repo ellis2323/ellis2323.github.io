@@ -8,6 +8,7 @@ tags : [Hackintosh, OpenGL]
 ## Save your mbp 2011
 
 Special Gift for all 2011 mbp owner.
+
 <ul class="posts">
 	<li><a href="{{ BASE_PATH }}/mbp2011/Mbp2011.html">Yosemite on 2011 MBP without GPU external</a></li>
  	<li><a href="{{ BASE_PATH }}/mbp2011/Mbp2011_fr.html">Yosemite sur un MBP 2011 sans GPU radeon</a></li>
