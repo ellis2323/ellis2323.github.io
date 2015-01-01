@@ -7,6 +7,8 @@ tags : [Hackintosh]
 
 ## Introduction
 
+Attention: cette méthode n'est pas universelle. Il y a des mac où l'installeur ne démarre pas et d'autres où cela plante après l'install. je suis en train d'investiger une autre méthode où l'on désactive la radeon dans un bootloader comme décrit dans https://help.ubuntu.com/community/UEFIBooting#Setting_up_GRUB2_.28U.29EFI . En 2014, avec cette astuce j'avais réussi à installer une ubuntu fonctionnelle mais je n'avais pas réussi à lancer OS X depuis grub.
+
 En 2013, mon macbook pro 2011 a commencé à montrer des signes de fatigue. Comme
 de très nombreux acheteurs de cette série, il s'agit de problèmes GPU et plus spécifiquement
 de sa soudure. Au début, il s'agissait d'artefacts et puis ... mon gpu a rendu l'ame. L'astuce initiale, forcer le GPU intel après le démarrage ne fonctionnait plus. Merci à [gfxCardStatus](https://gfx.io/).
